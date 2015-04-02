@@ -1,2 +1,0 @@
-# myWatched
-myWatched KODI addon
